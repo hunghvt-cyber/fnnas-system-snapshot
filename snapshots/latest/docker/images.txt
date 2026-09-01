@@ -1,7 +1,8 @@
 Command: docker images --no-trunc
 
 REPOSITORY                         TAG           IMAGE ID                                                                  CREATED          SIZE
-gemini-gemini                      latest        sha256:420f4b5fcf141cfcb5bfdd0dd17576339ae104706f685884cf1104a9ac258a96   18 minutes ago   539MB
+gemini-gemini                      latest        sha256:7a8c2cfb8eab657bfe0677325417993c449a742830a8bbf3dea932cecdddc163   45 seconds ago   539MB
+<none>                             <none>        sha256:420f4b5fcf141cfcb5bfdd0dd17576339ae104706f685884cf1104a9ac258a96   23 minutes ago   539MB
 telegrambot-telegrambot            latest        sha256:242bc7efa88efd8e655fc44f416adbc52e358348bb1ff6eaa836e6fff32c44bf   11 hours ago     162MB
 <none>                             <none>        sha256:78be11aa5de3fd342f53416911d556531e41e82c466533fdbfe53515a599de74   12 hours ago     501MB
 <none>                             <none>        sha256:5f03903f565af0800203c18c0080d57d18b0f68417724f39ba4708075f5a6d83   12 hours ago     462MB
