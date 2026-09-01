@@ -1,0 +1,28 @@
+FnNAS Security / Secret Scan
+=============================
+
+This snapshot intentionally excludes secret contents and
+sensitive filenames.
+
+Protected categories:
+
+- passwords
+- API keys
+- access tokens
+- bearer tokens
+- credentials
+- private keys
+- certificates
+- JWT secrets
+- Gemini credentials
+- Cloudflare credentials
+- Telegram credentials
+- .env files
+- SSH keys
+- Docker secret files
+
+The snapshot records system structure and operational metadata,
+not secret values.
+
+Security status:
+Secret-content protection enabled.

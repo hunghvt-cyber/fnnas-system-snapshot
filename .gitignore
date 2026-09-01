@@ -1,0 +1,38 @@
+# Generated snapshots
+snapshots/*
+!snapshots/.gitkeep
+!snapshots/latest/
+!snapshots/latest/**
+
+# Runtime
+*.tmp
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Secret file extensions
+*.secret
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+
+# Credential / secret filenames
+credentials*
+secrets*
+*credential*
+*credentials*
+*secret*
+*token*
+*apikey*
+*api_key*
+*private-key*
+*private_key*
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/

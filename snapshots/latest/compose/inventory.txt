@@ -1,0 +1,23 @@
+FnNAS Docker Compose Inventory
+==============================
+
+Only compose/project paths are recorded.
+Compose file contents are NOT copied.
+
+/vol1/Docker/DockerInventory.backup-v1-20260815-224747/docker-compose.yml
+/vol1/Docker/DockerInventory/docker-compose.yml
+/vol1/Docker/gemini/compose.yml
+/vol1/Docker/gemini/repos/fnnas-telegram-bot/docker-compose.yml
+/vol1/Docker/Portainer/compose/12/docker-compose.yml
+/vol1/Docker/Portainer/compose/14/docker-compose.yml
+/vol1/Docker/Portainer/compose/16/docker-compose.yml
+/vol1/Docker/Portainer/compose/17/docker-compose.yml
+/vol1/Docker/Portainer/compose/21/docker-compose.yml
+/vol1/Docker/Portainer/compose/22/docker-compose.yml
+/vol1/Docker/Portainer/compose/23/docker-compose.yml
+/vol1/Docker/Portainer/compose/24/docker-compose.yml
+/vol1/Docker/Portainer/compose/25/docker-compose.yml
+/vol1/Docker/Portainer/compose/3/docker-compose.yml
+/vol1/Docker/Portainer/compose/4/docker-compose.yml
+/vol1/Docker/Portainer/compose/5/docker-compose.yml
+/vol1/Docker/Portainer/compose/7/docker-compose.yml

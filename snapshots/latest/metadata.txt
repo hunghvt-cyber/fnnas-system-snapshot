@@ -1,0 +1,20 @@
+FnNAS System Snapshot Metadata
+==============================
+
+Snapshot:
+fnnas-20260901-202824
+
+Created:
+2026-09-01 20:28:25 +0800
+
+Hostname:
+admin
+
+Kernel:
+6.18.18.c944-trim
+
+Architecture:
+aarch64
+
+Snapshot root:
+/vol1/Docker/fnnas-system-snapshot

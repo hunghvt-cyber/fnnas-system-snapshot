@@ -1,0 +1,19 @@
+Command: docker images --no-trunc
+
+REPOSITORY                         TAG           IMAGE ID                                                                  CREATED        SIZE
+telegrambot-telegrambot            latest        sha256:242bc7efa88efd8e655fc44f416adbc52e358348bb1ff6eaa836e6fff32c44bf   8 hours ago    162MB
+gemini-gemini                      latest        sha256:78be11aa5de3fd342f53416911d556531e41e82c466533fdbfe53515a599de74   9 hours ago    501MB
+<none>                             <none>        sha256:5f03903f565af0800203c18c0080d57d18b0f68417724f39ba4708075f5a6d83   9 hours ago    462MB
+coderaiser/cloudcmd                latest        sha256:2957fffda5c0050aef94215c1c8f04d63b6979dc94518b942c6b060e3243b6a4   6 days ago     1.68GB
+<none>                             <none>        sha256:03e32b2190a0a4fb0169d20c97e64414fc75e49bfa5fc6e808740238bf56590a   7 days ago     154MB
+ghcr.io/gethomepage/homepage       latest        sha256:3a2b25796deabbf5c77ed9efcca2e1cb270b64f00c70ca87cf797640e26705fe   10 days ago    253MB
+dockerinventory-docker-inventory   latest        sha256:55ff2d29a1747ca32d83341c800d3758f2316575195d3872e974db875d80e97d   2 weeks ago    166MB
+<none>                             <none>        sha256:d448cf05585029ee79b45a89f6d02d9cfccc524b291a0eafcf6859743dddd092   2 weeks ago    154MB
+amir20/dozzle                      latest        sha256:f1480337d833d51986224a50211780b6ccf2b4cbf0f92be3b0eab4b44b6c469d   2 weeks ago    64.5MB
+21-telegrambot                     latest        sha256:5b9dc61e2ac08c4b143bd721fcecfc83377b2af230eb3d6a55bdfd91073f5faa   2 weeks ago    154MB
+cloudflare/cloudflared             latest        sha256:fa2b55d1106a6f3a72d844d4d25fb6e8fc8fb940ff532d159ee15c24b2370072   2 weeks ago    72.1MB
+python                             3.12-alpine   sha256:cb9af8d170f77f291e66758095a4ded08c37643ae7b1793f386a7d6b5f090487   2 weeks ago    53.2MB
+portainer/portainer-ce             latest        sha256:4a325a6b54e262388b39d4f5313ef64e4781500dd9335e14a7e46a3b6b4e1712   2 weeks ago    140MB
+ghcr.io/blakeblackshear/frigate    stable        sha256:9009ae1c7fd1a90ca0be96dff25eb76b2cc0fb5489a3f12e2ed292d35694ac7e   2 months ago   4.57GB
+caddy                              2-alpine      sha256:6b08c1b9858ca9a7d99c1da13c3695081e0e604c6cf214ca26a7ce0e2c4fd9b4   2 months ago   60.3MB
+containrrr/watchtower              latest        sha256:c352868a1654eb354b87fccf33fe3f3e356b8822421f6095c81dd1e11cb86f2b   2 years ago    14.2MB

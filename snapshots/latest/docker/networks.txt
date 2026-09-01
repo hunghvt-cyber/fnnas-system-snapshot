@@ -1,0 +1,21 @@
+Command: docker network ls
+
+NETWORK ID     NAME                       DRIVER    SCOPE
+854dad948c75   21_default                 bridge    local
+b7f85d72971a   22_default                 bridge    local
+2fe27e3203a3   bridge                     bridge    local
+a3dd3ceb1167   caddy_default              bridge    local
+ffee90758bf9   cloudcommander_default     bridge    local
+9a0642cc6079   docker-inventory_default   bridge    local
+72719ab3c6ec   dockerinventory_default    bridge    local
+26dfb943992a   frigate_default            bridge    local
+96cbd028edc8   gemini_default             bridge    local
+1b304ca88f86   homepage-tunnel_default    bridge    local
+29a299e934e0   homepage_default           bridge    local
+4620f06a3099   host                       host      local
+225946df4fed   none                       null      local
+f6fba20c2372   portainer_default          bridge    local
+1878a5a1c073   sftpgo_default             bridge    local
+a4e4c5489186   telegrambot_default        bridge    local
+894bc1fdb47f   watchtower_default         bridge    local
+375d17f7a9bf   webtop_default             bridge    local
