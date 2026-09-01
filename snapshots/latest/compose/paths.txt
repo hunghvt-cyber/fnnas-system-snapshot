@@ -53,6 +53,7 @@ Sensitive filenames are excluded.
 /vol1/Docker/gemini/repos/home-ai
 /vol1/Docker/gemini/repos/my-backup-gdrive-koofr
 /vol1/Docker/gemini/workspace
+/vol1/Docker/gemini/workspace/.gemini
 /vol1/Docker/gemini/workspace/repos
 /vol1/Docker/Homepage
 /vol1/Docker/Homepage/logs
