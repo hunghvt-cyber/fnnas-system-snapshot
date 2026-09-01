@@ -360,10 +360,13 @@ echo "Files: $FILE_COUNT"
 echo "Size:  $SIZE"
 echo "========================================"
 
-# Replace latest atomically.
+
+# Replace latest safely.
 rm -rf "$LATEST.new"
 cp -a "$OUT" "$LATEST.new"
-mv -T "$LATEST.new" "$LATEST"
+
+rm -rf "$LATEST"
+mv "$LATEST.new" "$LATEST"
 
 echo "Latest snapshot updated:"
 echo "$LATEST"

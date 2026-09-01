@@ -1,11 +1,10 @@
 FnNAS Security / Secret Scan
 =============================
 
-This snapshot intentionally excludes secret contents and
-sensitive filenames.
+This snapshot intentionally excludes secret contents
+and sensitive filenames.
 
 Protected categories:
-
 - passwords
 - API keys
 - access tokens
@@ -21,8 +20,8 @@ Protected categories:
 - SSH keys
 - Docker secret files
 
-The snapshot records system structure and operational metadata,
-not secret values.
+The snapshot records system structure and operational
+metadata, not secret values.
 
 Security status:
 Secret-content protection enabled.

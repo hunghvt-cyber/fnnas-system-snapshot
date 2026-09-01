@@ -1,6 +1,8 @@
 FnNAS Compose / Docker Paths
 ============================
 
+Sensitive filenames are excluded.
+
 /vol1/Docker
 /vol1/Docker/Caddy
 /vol1/Docker/Caddy/config
@@ -19,12 +21,15 @@ FnNAS Compose / Docker Paths
 /vol1/Docker/fnnas-system-snapshot/.git/branches
 /vol1/Docker/fnnas-system-snapshot/.git/hooks
 /vol1/Docker/fnnas-system-snapshot/.git/info
+/vol1/Docker/fnnas-system-snapshot/.git/logs
 /vol1/Docker/fnnas-system-snapshot/.git/objects
 /vol1/Docker/fnnas-system-snapshot/.git/refs
 /vol1/Docker/fnnas-system-snapshot/scripts
 /vol1/Docker/fnnas-system-snapshot/scripts/lib
 /vol1/Docker/fnnas-system-snapshot/snapshots
 /vol1/Docker/fnnas-system-snapshot/snapshots/fnnas-20260901-202824
+/vol1/Docker/fnnas-system-snapshot/snapshots/latest
+/vol1/Docker/fnnas-system-snapshot/snapshots/latest.new
 /vol1/Docker/Frigate
 /vol1/Docker/Frigate/config
 /vol1/Docker/Frigate/config/model_cache

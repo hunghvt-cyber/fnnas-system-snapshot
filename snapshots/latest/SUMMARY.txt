@@ -1,10 +1,8 @@
 FnNAS Snapshot Summary
 =====================
-Snapshot: fnnas-20260901-202824
-Created:  2026-09-01 20:28:25 +0800
+Created:  2026-09-01 21:27:06 +0800
 
 Files:
-collector.log
 compose/inventory.txt
 compose/paths.txt
 docker/containers.txt
@@ -23,7 +21,7 @@ storage.txt
 SUMMARY.txt
 
 File count:
-16
+15
 
 Snapshot size:
-104K
+1.1M
