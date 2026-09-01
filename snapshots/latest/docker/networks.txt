@@ -3,7 +3,7 @@ Command: docker network ls
 NETWORK ID     NAME                       DRIVER    SCOPE
 854dad948c75   21_default                 bridge    local
 b7f85d72971a   22_default                 bridge    local
-2fe27e3203a3   bridge                     bridge    local
+0362edfa0d7b   bridge                     bridge    local
 a3dd3ceb1167   caddy_default              bridge    local
 ffee90758bf9   cloudcommander_default     bridge    local
 9a0642cc6079   docker-inventory_default   bridge    local
