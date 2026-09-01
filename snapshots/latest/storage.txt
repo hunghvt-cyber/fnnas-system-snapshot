@@ -3,7 +3,7 @@ Filesystem                                              Type      Size  Used Ava
 /dev/mmcblk1p2                                          btrfs     6.2G  4.0G  2.0G  68% /
 devtmpfs                                                devtmpfs  1.2G     0  1.2G   0% /dev
 tmpfs                                                   tmpfs     1.8G  1.1M  1.8G   1% /dev/shm
-tmpfs                                                   tmpfs     733M   22M  712M   3% /run
+tmpfs                                                   tmpfs     733M   26M  708M   4% /run
 tmpfs                                                   tmpfs     5.0M     0  5.0M   0% /run/lock
 tmpfs                                                   tmpfs     1.8G   44K  1.8G   1% /tmp
 /dev/mmcblk1p1                                          vfat      488M  153M  335M  32% /boot
@@ -53,7 +53,7 @@ TARGET                                                                          
 │ ├─/run/credentials/systemd-sysctl.service                                                       ramfs                                                   ramfs       ro,nosuid,nodev,noexec,relatime,mode=700
 │ ├─/run/credentials/systemd-tmpfiles-setup.service                                               ramfs                                                   ramfs       ro,nosuid,nodev,noexec,relatime,mode=700
 │ ├─/run/rpc_pipefs                                                                               sunrpc                                                  rpc_pipefs  rw,relatime
-│ ├─/run/docker/netns/19d4c3ebf05a                                                                nsfs[net:[4026532426]]                                  nsfs        rw
+│ ├─/run/docker/netns/121ec151628e                                                                nsfs[net:[4026532426]]                                  nsfs        rw
 │ ├─/run/docker/netns/default                                                                     nsfs[net:[4026531833]]                                  nsfs        rw
 │ ├─/run/docker/netns/500f01347d20                                                                nsfs[net:[4026532499]]                                  nsfs        rw
 │ ├─/run/docker/netns/6e7d833754c7                                                                nsfs[net:[4026532357]]                                  nsfs        rw
