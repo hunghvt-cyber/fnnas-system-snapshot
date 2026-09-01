@@ -23,6 +23,7 @@ overlay                                                 overlay   466G  9.3G  45
 overlay                                                 overlay   466G  9.3G  455G   2% /vol1/docker/overlay2/705b7b85259d4d473e2db7cdd1bc96e5ef64bb4d14ac133fa2d7318e8be7de57/merged
 overlay                                                 overlay   466G  9.3G  455G   2% /vol1/docker/overlay2/1b5d7d3c8c6f0defd21508ebca97952527e2d7c405115b26cf3e1220f0701955/merged
 overlay                                                 overlay   466G  9.3G  455G   2% /vol1/docker/overlay2/3bb00c9da904f8f2d8990a933f7722d1da3ee310732bc315f36797eb3730346b/merged
+tmpfs                                                   tmpfs     367M     0  367M   0% /run/user/1000
 
 ===== MOUNTS =====
 TARGET                                                                                            SOURCE                                                  FSTYPE      OPTIONS
@@ -55,6 +56,7 @@ TARGET                                                                          
 │ ├─/run/docker/netns/default                                                                     nsfs[net:[4026531833]]                                  nsfs        rw
 │ ├─/run/docker/netns/500f01347d20                                                                nsfs[net:[4026532499]]                                  nsfs        rw
 │ ├─/run/docker/netns/6e7d833754c7                                                                nsfs[net:[4026532357]]                                  nsfs        rw
+│ ├─/run/user/1000                                                                                tmpfs                                                   tmpfs       rw,nosuid,nodev,relatime,size=375240k,nr_inodes=93810,mode=700,uid=1000,gid=1001,inode64
 │ ├─/run/docker/netns/5f9316f49bf9                                                                nsfs[net:[4026532428]]                                  nsfs        rw
 │ ├─/run/docker/netns/2c8296f137d2                                                                nsfs[net:[4026532712]]                                  nsfs        rw
 │ ├─/run/docker/netns/08c24196b7a7                                                                nsfs[net:[4026532240]]                                  nsfs        rw
