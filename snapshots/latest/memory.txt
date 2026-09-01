@@ -1,39 +1,39 @@
 ===== MEMORY =====
 
                total        used        free      shared  buff/cache   available
-Mem:           3.6Gi       2.0Gi        96Mi        29Mi       1.6Gi       1.6Gi
+Mem:           3.6Gi       2.0Gi        97Mi        29Mi       1.6Gi       1.6Gi
 Swap:          1.8Gi       901Mi       930Mi
 
 ===== /proc/meminfo =====
 MemTotal:        3752408 kB
-MemFree:           98540 kB
-MemAvailable:    1642880 kB
+MemFree:           99984 kB
+MemAvailable:    1649948 kB
 Buffers:             632 kB
-Cached:          1489648 kB
+Cached:          1495260 kB
 SwapCached:         4968 kB
-Active:           789904 kB
-Inactive:        2130368 kB
-Active(anon):     551228 kB
-Inactive(anon):   921236 kB
-Active(file):     238676 kB
-Inactive(file):  1209132 kB
+Active:           795400 kB
+Inactive:        2129804 kB
+Active(anon):     552352 kB
+Inactive(anon):   919416 kB
+Active(file):     243048 kB
+Inactive(file):  1210388 kB
 Unevictable:       15480 kB
 Mlocked:           15480 kB
 SwapTotal:       1876200 kB
-SwapFree:         953144 kB
+SwapFree:         953148 kB
 Zswap:            190344 kB
-Zswapped:         868780 kB
-Dirty:              1388 kB
+Zswapped:         868776 kB
+Dirty:              1320 kB
 Writeback:             0 kB
-AnonPages:       1354620 kB
-Mapped:           360840 kB
-Shmem:             29836 kB
-KReclaimable:     186900 kB
-Slab:             343640 kB
-SReclaimable:     186900 kB
-SUnreclaim:       156740 kB
-KernelStack:       28968 kB
-PageTables:        50236 kB
+AnonPages:       1353684 kB
+Mapped:           360968 kB
+Shmem:             29820 kB
+KReclaimable:     186896 kB
+Slab:             343664 kB
+SReclaimable:     186896 kB
+SUnreclaim:       156768 kB
+KernelStack:       28944 kB
+PageTables:        50436 kB
 SecPageTables:         0 kB
 NFS_Unstable:          0 kB
 Bounce:                0 kB
@@ -51,7 +51,7 @@ ShmemPmdMapped:        0 kB
 FileHugePages:         0 kB
 FilePmdMapped:         0 kB
 CmaTotal:        1232896 kB
-CmaFree:           19316 kB
+CmaFree:           13364 kB
 Balloon:               0 kB
 HugePages_Total:       0
 HugePages_Free:        0
