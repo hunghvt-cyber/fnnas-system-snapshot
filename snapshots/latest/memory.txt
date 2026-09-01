@@ -1,47 +1,47 @@
 ===== MEMORY =====
 
                total        used        free      shared  buff/cache   available
-Mem:           3.6Gi       2.0Gi        55Mi        29Mi       1.6Gi       1.6Gi
-Swap:          1.8Gi       898Mi       933Mi
+Mem:           3.6Gi       2.0Gi        99Mi        29Mi       1.6Gi       1.6Gi
+Swap:          1.8Gi       901Mi       930Mi
 
 ===== /proc/meminfo =====
 MemTotal:        3752408 kB
-MemFree:           56480 kB
-MemAvailable:    1635560 kB
+MemFree:          101736 kB
+MemAvailable:    1640768 kB
 Buffers:             632 kB
-Cached:          1524448 kB
+Cached:          1484384 kB
 SwapCached:         4968 kB
-Active:          1115020 kB
-Inactive:        1853620 kB
-Active(anon):     811776 kB
-Inactive(anon):   674244 kB
-Active(file):     303244 kB
-Inactive(file):  1179376 kB
+Active:           789268 kB
+Inactive:        2132624 kB
+Active(anon):     553732 kB
+Inactive(anon):   925608 kB
+Active(file):     235536 kB
+Inactive(file):  1207016 kB
 Unevictable:       15480 kB
 Mlocked:           15480 kB
 SwapTotal:       1876200 kB
-SwapFree:         955704 kB
-Zswap:            189960 kB
-Zswapped:         866224 kB
-Dirty:              1844 kB
+SwapFree:         953140 kB
+Zswap:            190344 kB
+Zswapped:         868784 kB
+Dirty:              1604 kB
 Writeback:             0 kB
-AnonPages:       1368632 kB
-Mapped:           358204 kB
-Shmem:             29824 kB
-KReclaimable:     186828 kB
-Slab:             343848 kB
-SReclaimable:     186828 kB
-SUnreclaim:       157020 kB
-KernelStack:       28928 kB
-PageTables:        51116 kB
+AnonPages:       1361916 kB
+Mapped:           355692 kB
+Shmem:             29828 kB
+KReclaimable:     186848 kB
+Slab:             343700 kB
+SReclaimable:     186848 kB
+SUnreclaim:       156852 kB
+KernelStack:       28960 kB
+PageTables:        50420 kB
 SecPageTables:         0 kB
 NFS_Unstable:          0 kB
 Bounce:                0 kB
 WritebackTmp:          0 kB
 CommitLimit:     3752404 kB
-Committed_AS:   18560320 kB
+Committed_AS:   18576676 kB
 VmallocTotal:   135288315904 kB
-VmallocUsed:       77760 kB
+VmallocUsed:       77824 kB
 VmallocChunk:          0 kB
 Percpu:             4488 kB
 HardwareCorrupted:     0 kB
@@ -51,7 +51,7 @@ ShmemPmdMapped:        0 kB
 FileHugePages:         0 kB
 FilePmdMapped:         0 kB
 CmaTotal:        1232896 kB
-CmaFree:           15020 kB
+CmaFree:           35572 kB
 Balloon:               0 kB
 HugePages_Total:       0
 HugePages_Free:        0
@@ -62,4 +62,4 @@ Hugetlb:               0 kB
 
 ===== SWAP =====
 NAME       TYPE      SIZE   USED PRIO
-/dev/zram0 partition 1.8G 898.9M  100
+/dev/zram0 partition 1.8G 901.4M  100
