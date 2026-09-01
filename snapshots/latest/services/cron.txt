@@ -23,8 +23,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 #
 
 ===== USER CRONTAB =====
-*/10 * * * * flock -n /tmp/cloudflare-update.lock /opt/scripts/cloudflare/run_all.sh >> /opt/scripts/cloudflare/cron.log 2>&1
-0 * * * * /usr/sbin/logrotate /etc/logrotate.d/rsyslog >/dev/null 2>&1
+no crontab for admin
 
 ===== CRON.D =====
 --- /etc/cron.d/e2scrub_all ---

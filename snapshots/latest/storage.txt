@@ -5,7 +5,7 @@ devtmpfs                                                devtmpfs  1.2G     0  1.
 tmpfs                                                   tmpfs     1.8G     0  1.8G   0% /dev/shm
 tmpfs                                                   tmpfs     733M   23M  711M   4% /run
 tmpfs                                                   tmpfs     5.0M     0  5.0M   0% /run/lock
-tmpfs                                                   tmpfs     1.8G   24K  1.8G   1% /tmp
+tmpfs                                                   tmpfs     1.8G   16K  1.8G   1% /tmp
 /dev/mmcblk1p1                                          vfat      488M  153M  335M  32% /boot
 trimafs                                                 trimafs   466G  8.9G  456G   2% /fs
 /dev/mapper/trim_4d1cceca_0e2e_48a8_96c1_5dccfbaae503-0 btrfs     466G  8.9G  456G   2% /vol1
@@ -56,7 +56,7 @@ TARGET                                                                          
 │ ├─/run/credentials/systemd-tmpfiles-setup.service                                               ramfs                                                   ramfs       ro,nosuid,nodev,noexec,relatime,mode=700
 │ ├─/run/rpc_pipefs                                                                               sunrpc                                                  rpc_pipefs  rw,relatime
 │ ├─/run/user/1000                                                                                tmpfs                                                   tmpfs       rw,nosuid,nodev,relatime,size=375240k,nr_inodes=93810,mode=700,uid=1000,gid=1001,inode64
-│ ├─/run/docker/netns/76c39dc82ef2                                                                nsfs[net:[4026532638]]                                  nsfs        rw
+│ ├─/run/docker/netns/36181e35064b                                                                nsfs[net:[4026532638]]                                  nsfs        rw
 │ ├─/run/docker/netns/01da4cefaa2b                                                                nsfs[net:[4026532427]]                                  nsfs        rw
 │ ├─/run/docker/netns/default                                                                     nsfs[net:[4026531833]]                                  nsfs        rw
 │ ├─/run/docker/netns/6c03268527b4                                                                nsfs[net:[4026532498]]                                  nsfs        rw

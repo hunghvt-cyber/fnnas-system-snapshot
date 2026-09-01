@@ -29,7 +29,6 @@ Sensitive filenames are excluded.
 /vol1/Docker/fnnas-system-snapshot/snapshots
 /vol1/Docker/fnnas-system-snapshot/snapshots/fnnas-20260901-202824
 /vol1/Docker/fnnas-system-snapshot/snapshots/latest
-/vol1/Docker/fnnas-system-snapshot/snapshots/latest.new
 /vol1/Docker/Frigate
 /vol1/Docker/Frigate/config
 /vol1/Docker/Frigate/config/model_cache
