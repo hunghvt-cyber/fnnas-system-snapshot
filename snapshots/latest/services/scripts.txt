@@ -192,6 +192,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/1a/7b48bb6985d774450b269d35b3db7efa3def02
 /vol1/Docker/fnnas-system-snapshot/.git/objects/1a/b967634f746ec87acd4d6f8196da424475bc76
 /vol1/Docker/fnnas-system-snapshot/.git/objects/1a/e775afa579c7bc999463994a3656e3fa0a8cc8
+/vol1/Docker/fnnas-system-snapshot/.git/objects/1a/f88e780e1358fc681073f910e29cf2b04abcfa
 /vol1/Docker/fnnas-system-snapshot/.git/objects/1a/fe85096e37731214aad02822e93b08b16f43d6
 /vol1/Docker/fnnas-system-snapshot/.git/objects/1b/d972a3790f95148861087da4311f0016868c00
 /vol1/Docker/fnnas-system-snapshot/.git/objects/1b/e0874ecf8cbfa9bfb5508868b12086dd68ea5c
@@ -245,6 +246,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/2d/68e8d1996962cdd819549af76eaded70ac754b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/2d/8f5e5077104c884aa7bd62e7ae51571acc39f5
 /vol1/Docker/fnnas-system-snapshot/.git/objects/2d/cefe7b1056535a0c380dbc1875f2c3eaf727ff
+/vol1/Docker/fnnas-system-snapshot/.git/objects/2e/22bcfcc2f10cdc833b8032c2072553fc62c8b4
 /vol1/Docker/fnnas-system-snapshot/.git/objects/2e/68df59bc692736b14cb4a468c0a834b791d75b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/2e/baabff984a00b625d143e3e3729e5caedbfbc9
 /vol1/Docker/fnnas-system-snapshot/.git/objects/2e/d3655cc7b87c17adc28d4718137b0752324fc8
@@ -349,6 +351,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4f/c87a5e8a7a43de4aa3fb66b0d5c7000ef8fc7c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4f/fe47c10d4486a0909fd482630198b1d30a31bf
 /vol1/Docker/fnnas-system-snapshot/.git/objects/50/0aa797783d0a6178a3296fd6df02c714fc1fae
+/vol1/Docker/fnnas-system-snapshot/.git/objects/50/155b6e886c785ec4ede47441e9248352e67206
 /vol1/Docker/fnnas-system-snapshot/.git/objects/50/2e131966dba1830c492380d937fed490657028
 /vol1/Docker/fnnas-system-snapshot/.git/objects/50/55ec57b036cd4186e6523601ec30b2113aaaaa
 /vol1/Docker/fnnas-system-snapshot/.git/objects/50/5b65ea115f1a2d5f696aa988f1698b55194016
@@ -382,6 +385,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/59/2720cef0d6b364ce037c05944bf968938a8dfa
 /vol1/Docker/fnnas-system-snapshot/.git/objects/59/ac55cf7e33fe0c176168db1e93e4f07beab19f
 /vol1/Docker/fnnas-system-snapshot/.git/objects/59/b5f29897239aea0775154267b614525835a5bc
+/vol1/Docker/fnnas-system-snapshot/.git/objects/59/e8d8565addbcb05ae4dcb77b004f3c36437674
 /vol1/Docker/fnnas-system-snapshot/.git/objects/5a/1c8e3eed17af7ceda32a3cb7de0d2a30592a85
 /vol1/Docker/fnnas-system-snapshot/.git/objects/5a/40654cdcf9ec6d6258815329d8a10ff1c84046
 /vol1/Docker/fnnas-system-snapshot/.git/objects/5b/3b0604e2958fa050cd0c1886a162708568fe37
@@ -500,6 +504,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/7c/09c6eba15903f07f6fbdeb45ebb04035d91b90
 /vol1/Docker/fnnas-system-snapshot/.git/objects/7c/3eda2cde0167b8dbb54474da30aa48fa3e3557
 /vol1/Docker/fnnas-system-snapshot/.git/objects/7c/851fc5ef7640cbd307dd252218cf5070c87ddd
+/vol1/Docker/fnnas-system-snapshot/.git/objects/7c/92a9f81a8e6f3f31676501003fc716121c0ab2
 /vol1/Docker/fnnas-system-snapshot/.git/objects/7d/5578758db1630beb5dba66ac8f2973289ec277
 /vol1/Docker/fnnas-system-snapshot/.git/objects/7d/b88ada3100f6c104ca982c67187978c4b5a264
 /vol1/Docker/fnnas-system-snapshot/.git/objects/7d/bae14e05dceea6268462668fc7c2e2f38a558b
@@ -565,6 +570,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/94/d7975fd42ca26eb520802a982e2f660513ff7c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/94/fc660ee2c26471bb0ce4c96cbf49fa582abcc9
 /vol1/Docker/fnnas-system-snapshot/.git/objects/95/10bff8c1d419881e275b13d4bce7a7b9b651a4
+/vol1/Docker/fnnas-system-snapshot/.git/objects/95/14f5c16df622f55dd05394a20fd0c4d995f45b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/95/f6283cd81532a4b2f50a2f51bc800a38ae633b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/96/30f19e3aa1e5e7f0c2dad8f535bc055a52049a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/96/5a3ea4c5123fd62f6c73ef0b4c9abc3ee3c37e
@@ -647,6 +653,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/af/1fa9162a0bcdec82809d09eccefb3560dafdd7
 /vol1/Docker/fnnas-system-snapshot/.git/objects/af/703ba71198db75a3169f2f88ce035de8de8276
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b0/47171f6388a90679868e96f540c0cbfe3185b3
+/vol1/Docker/fnnas-system-snapshot/.git/objects/b0/578df4c1150f2db03491ef6bd203bb3e7c6eea
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b0/687f203a0e1df2484a0644de31161c29289050
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b0/7f4b784c4ecd651a07e55b54fa60166d367f34
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b0/bd6b0453b06da2706b109b3faac549995192e6
@@ -676,6 +683,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b9/26cc8aba3a7db63889de73842d148e17124a4c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b9/9add33c65be82e048cf9cd7b964d0ebf12937a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b9/e7993990bcce64068fd86d5e80409e0134eb81
+/vol1/Docker/fnnas-system-snapshot/.git/objects/b9/f9a2952a3cfb431a4af59848c9c2ed06a85aa8
 /vol1/Docker/fnnas-system-snapshot/.git/objects/ba/accbc31147e5e93ddc0e0f27cc44207e5b6fd6
 /vol1/Docker/fnnas-system-snapshot/.git/objects/ba/f1808e068283ab3e14a3cea1cc98fb952feb3a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/bb/2127602b8c77b5283334d958bd51a61c5ccb74
@@ -773,12 +781,14 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/6be1e0b30f1c395fcd5cd7a1936441c972b255
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/920b81ff3f05b252aa1eadd6a7f7126c42b33c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dd/1f05e14e374a102a6a8b7f422cf3146ddb55cf
+/vol1/Docker/fnnas-system-snapshot/.git/objects/dd/3e814dc4a26f9ad93d258d0d6787b9a3b5f1d5
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dd/a0923c4e3e7666dbfe3ccc20363d85c7ada534
 /vol1/Docker/fnnas-system-snapshot/.git/objects/de/38e0c57e2434afc4702a702be9670c963f77a9
 /vol1/Docker/fnnas-system-snapshot/.git/objects/de/5f493afab6d9722f8fc3855fe9e9a1fb5beabe
 /vol1/Docker/fnnas-system-snapshot/.git/objects/de/ad256d36b2894406a63f4378a16be13fdd69db
 /vol1/Docker/fnnas-system-snapshot/.git/objects/df/352018e173ba06b9770a790c69b05cc04092eb
 /vol1/Docker/fnnas-system-snapshot/.git/objects/df/3856806fc8a0da09d3d828c22d9cff565b731e
+/vol1/Docker/fnnas-system-snapshot/.git/objects/df/d4e658e77c95c7a64314124e77f0e47a410831
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e0/363780283810a04857c309705ae17bcf5474f3
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e0/95de1569467244492a1fa897de29fa96b1fbdb
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e1/2c6209085a02985ff5ed26c00f266d0c268166
@@ -802,10 +812,12 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e7/1f448fa7e01846cc0da2805c23be92dca90ae5
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e7/5a52f60cf91160685beb292c0f0ec69881eede
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e7/5d823e878d49e6c6b7e10e857008aa0d2ea191
+/vol1/Docker/fnnas-system-snapshot/.git/objects/e7/6074d5e15736f257b3bab6dec7bc9063a172bf
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e7/6353e7108a94d480ef694594edb07e3dd1ad02
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e7/e259b04a675c3eab61897fd3f958d4df728723
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e8/390d504698a671106c3008b522aa694820cd0a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e9/0317c91a0e56eda4399f6676f6809964a7d935
+/vol1/Docker/fnnas-system-snapshot/.git/objects/e9/b9bd471becf4c5068a98000dbec3e1e5048fd8
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e9/e26639801fed2a9aa8dc28f23f1d1a0e4003ed
 /vol1/Docker/fnnas-system-snapshot/.git/objects/ea/2249634421abc75e63a87492a803c728f69c0e
 /vol1/Docker/fnnas-system-snapshot/.git/objects/ea/4436b029527902cb246ba9b74ba16adf864d09
@@ -854,6 +866,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/f9/91f66a337af31313dcafebd4a7c8120bc900bc
 /vol1/Docker/fnnas-system-snapshot/.git/objects/f9/d691f53526277c0e490f43838ee5b7285d58d1
 /vol1/Docker/fnnas-system-snapshot/.git/objects/f9/d9abb78c597fac9fdbeaadf6c14b240fb26010
+/vol1/Docker/fnnas-system-snapshot/.git/objects/fa/1bb3499633db89b41a664e345eaadebac3547f
 /vol1/Docker/fnnas-system-snapshot/.git/objects/fa/3c2af84be9dd24f3580dc6d3e7fb88efea8c6a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/fb/50030cd4ccbb63750e2f2389d6764db6b63b6f
 /vol1/Docker/fnnas-system-snapshot/.git/objects/fb/6f7972213b8d82738bf0f0619ca4e41d526524
@@ -969,6 +982,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-01T16-20-cb71ce50.jsonl
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-01T16-21-35281df1.jsonl
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-01T16-23-99301e02.jsonl
+/vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-01T16-25-c5c623da.jsonl
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/logs.json
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/.project_root
 /vol1/Docker/gemini/home/.gemini/trustedFolders.json
