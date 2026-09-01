@@ -38,6 +38,7 @@ Sensitive filenames are excluded.
 /vol1/Docker/Frigate/media/recordings
 /vol1/Docker/gemini
 /vol1/Docker/gemini/bin
+/vol1/Docker/gemini/fnnas-mcp
 /vol1/Docker/gemini/home
 /vol1/Docker/gemini/home/.config
 /vol1/Docker/gemini/home/.docker
