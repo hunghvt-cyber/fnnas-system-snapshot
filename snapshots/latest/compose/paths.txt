@@ -45,6 +45,8 @@ Sensitive filenames are excluded.
 /vol1/Docker/gemini/home/.local
 /vol1/Docker/gemini/home/.npm
 /vol1/Docker/gemini/home/.ssh
+/vol1/Docker/gemini/mcp
+/vol1/Docker/gemini/mcp/fnnas
 /vol1/Docker/gemini/repos
 /vol1/Docker/gemini/repos/fnnas-telegram-bot
 /vol1/Docker/gemini/repos/google-photos-koofr
