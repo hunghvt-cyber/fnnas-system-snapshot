@@ -42,6 +42,7 @@ Sensitive filenames are excluded.
 /vol1/Docker/gemini/home/.config
 /vol1/Docker/gemini/home/.docker
 /vol1/Docker/gemini/home/.gemini
+/vol1/Docker/gemini/home/gemini-auto-logs
 /vol1/Docker/gemini/home/.local
 /vol1/Docker/gemini/home/.npm
 /vol1/Docker/gemini/home/.ssh
