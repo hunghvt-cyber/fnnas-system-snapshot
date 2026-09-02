@@ -5,7 +5,7 @@ devtmpfs                                                devtmpfs  1.2G     0  1.
 tmpfs                                                   tmpfs     1.8G  1.1M  1.8G   1% /dev/shm
 tmpfs                                                   tmpfs     733M   70M  664M  10% /run
 tmpfs                                                   tmpfs     5.0M     0  5.0M   0% /run/lock
-tmpfs                                                   tmpfs     1.8G   44K  1.8G   1% /tmp
+tmpfs                                                   tmpfs     1.8G  168K  1.8G   1% /tmp
 /dev/mmcblk1p1                                          vfat      488M  153M  335M  32% /boot
 trimafs                                                 trimafs   466G  9.3G  455G   2% /fs
 /dev/mapper/trim_4d1cceca_0e2e_48a8_96c1_5dccfbaae503-0 btrfs     466G  9.3G  455G   2% /vol1
