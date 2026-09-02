@@ -109,6 +109,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/01/6d7964f44231c84d8f7ea2ceab407dba93262b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/01/acf57c77cf4c2d8fa1d98e5bb3a69eb88fff78
 /vol1/Docker/fnnas-system-snapshot/.git/objects/01/e0465e1e2ea1fb2a83c9662ce99c8c324a5ca6
+/vol1/Docker/fnnas-system-snapshot/.git/objects/01/e853d8832c648e6afa3c0cb87d652a3f7d0ce2
 /vol1/Docker/fnnas-system-snapshot/.git/objects/01/ef0db11269978c049ca1c4bb9a200a384d6c40
 /vol1/Docker/fnnas-system-snapshot/.git/objects/02/0455aae045a995314305f8ef44157fcc77b44b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/02/55a819fabce92b3bca2fb29ad0f2b8a9622e3c
@@ -206,6 +207,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/10/df9989d47ac8b1ac95fd69126168644828080b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/11/1fa82889144d85481f66e786b0fea14d0461d5
 /vol1/Docker/fnnas-system-snapshot/.git/objects/11/3cc39e9c046cff87dc0a2797bd7fcb065bc0eb
+/vol1/Docker/fnnas-system-snapshot/.git/objects/11/7b1c9873b9d0bd06342e2875c4d704af609657
 /vol1/Docker/fnnas-system-snapshot/.git/objects/11/8c1f63de5de87f8996665dcd2cd00913ff6a67
 /vol1/Docker/fnnas-system-snapshot/.git/objects/11/a057a8878118ae4a2b30642c1ba5235b27173e
 /vol1/Docker/fnnas-system-snapshot/.git/objects/11/b35889443d4a9fbe978f2bb703f236352adebb
@@ -220,6 +222,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/12/e95bed1a924ad26a8c965d7c252bf590b7eb2e
 /vol1/Docker/fnnas-system-snapshot/.git/objects/12/ec081dcce37296f4e878615779e796dbd9ba5f
 /vol1/Docker/fnnas-system-snapshot/.git/objects/12/fe119f5008344a384cffdb5bd8ba1493f3c794
+/vol1/Docker/fnnas-system-snapshot/.git/objects/13/1cba02c82a4da83ec7bf6335f689f9fc27fe17
 /vol1/Docker/fnnas-system-snapshot/.git/objects/13/2e04292ec7450d42d2631b53040c48d449a2ad
 /vol1/Docker/fnnas-system-snapshot/.git/objects/13/70bca20b8593847b37a7a7b41d4a8ca788b3bd
 /vol1/Docker/fnnas-system-snapshot/.git/objects/13/948a8202ef7f98bb9c5397e6a6f51b5f2075e8
@@ -333,6 +336,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/23/08298e4671dd8909a22ea5ed5764abf85ae249
 /vol1/Docker/fnnas-system-snapshot/.git/objects/23/3da9f7f3ab1574fad449dad6a4be83afcfe6cc
 /vol1/Docker/fnnas-system-snapshot/.git/objects/23/8afd5e6fa0d96c9dca43da0e9120af89b7a24d
+/vol1/Docker/fnnas-system-snapshot/.git/objects/23/f35295ccc5f1297fd13904d799f8644443fa1d
 /vol1/Docker/fnnas-system-snapshot/.git/objects/23/fb61b4976612aeea5bb0503dac05014d9c347d
 /vol1/Docker/fnnas-system-snapshot/.git/objects/24/12a1e2410423c5b439c5de76797260659e6dbc
 /vol1/Docker/fnnas-system-snapshot/.git/objects/24/36860c119dcb4e196fbff6c5cc6b62bb4901d9
@@ -478,6 +482,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/3d/de2e6e7111725e109b6a573ee03fd4b910fcc2
 /vol1/Docker/fnnas-system-snapshot/.git/objects/3d/de47a917e421d109adac22171d50675ba2700c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/3d/e10dcd0663156d9690ba32e58a8c273f8f7288
+/vol1/Docker/fnnas-system-snapshot/.git/objects/3d/e3142d27c9219326791937c6a007f157a3b0c0
 /vol1/Docker/fnnas-system-snapshot/.git/objects/3d/eba0f26eb684d9058e4bd39f44fd82dc409e7b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/3e/26219db00be8f626707d2377d23a53f3d75e30
 /vol1/Docker/fnnas-system-snapshot/.git/objects/3e/3644260f88aabe2ea8ae08723054571f09116a
@@ -563,6 +568,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4b/18153afed4c33b7be7806a001064b99240fb0f
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4b/21916cd21e0b73998caa57bcd5cc38909e791d
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4b/8685c98c048e7c8c68fb736da298fd41745ad5
+/vol1/Docker/fnnas-system-snapshot/.git/objects/4b/b894d9e38e2bc32af1e1d1f3cb66f558006031
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4b/c17e8a5341014d59090078b919a8bb1fc4d041
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4b/d0b5bef632b0a4139c44b78e038521c4e30d76
 /vol1/Docker/fnnas-system-snapshot/.git/objects/4b/e2e7e9bd2bfb1b4360aaa3c96295fbec2b5204
@@ -834,6 +840,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/75/7e44c462b8220f0e2774f43d9d7b2cc7d66bc7
 /vol1/Docker/fnnas-system-snapshot/.git/objects/75/bf40b709376a4125d44f97383ed8ccc4d16bb4
 /vol1/Docker/fnnas-system-snapshot/.git/objects/75/cde9f53a8ac67f180f8818d83dc1ff9a6c6dd6
+/vol1/Docker/fnnas-system-snapshot/.git/objects/75/d4fb99532614bcb4517eabdfb10aee3505b7a8
 /vol1/Docker/fnnas-system-snapshot/.git/objects/76/3d0d1019ca907713745f88148dc731d77d5d70
 /vol1/Docker/fnnas-system-snapshot/.git/objects/76/525ca1ee9324b35431998be84aa9779decdf17
 /vol1/Docker/fnnas-system-snapshot/.git/objects/76/53de116b6cf4980478db8dc8da4308debcd98e
@@ -971,6 +978,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8a/70cb985862421cb8eb2a192c425108cdceef42
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8a/8110eda5102d439ce5c5be8f924154f47dfc36
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8a/a80089e57c568ae612ea3a4a68f7eebed7a391
+/vol1/Docker/fnnas-system-snapshot/.git/objects/8b/08b376bcc6f74b14618b99a458bd8d69c91518
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8b/1267a32e3d43f752dc2f2de8ec84c4a8eb9690
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8b/462a86046a45b268732c8019febaa0b1b6f926
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8b/8ff9dff7e4883e160d8c5d474fb78e106f8a4b
@@ -978,6 +986,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8b/d5042a8abd87a49cfab3408814fee8c5dd802d
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8c/19f40a04748400fa5c2974b68e4ba8bc9dce68
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8c/43a24b05048e9a407cc8edd2532c48d1c456db
+/vol1/Docker/fnnas-system-snapshot/.git/objects/8c/644358d14488061509944abda1789604b70796
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8c/6ec684c61d3c6350df60cce831ce3d293b7831
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8c/7e40d0b7f832b3e9ccbc72e29977ecadc666f6
 /vol1/Docker/fnnas-system-snapshot/.git/objects/8c/99685da58e6fe8938e5edfd223c1dc37be0447
@@ -1096,6 +1105,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/9e/dc6aa25400f14c41a90be71280cddcfbcc1dc7
 /vol1/Docker/fnnas-system-snapshot/.git/objects/9e/f8840450b0ca8312ed360bd741789b75953037
 /vol1/Docker/fnnas-system-snapshot/.git/objects/9f/313e648dc0d09166a7c505659a60262e18afa5
+/vol1/Docker/fnnas-system-snapshot/.git/objects/9f/886ade03371cbd6ab3bfa39bc281ad6d30c3ba
 /vol1/Docker/fnnas-system-snapshot/.git/objects/9f/8d56519aa7bdec0ad2f5e136072d993385ba6a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/9f/a58c4817441873c110b69d730477506a3fb300
 /vol1/Docker/fnnas-system-snapshot/.git/objects/9f/cab02b1c64facd3c81cefe51d1e7c1f758a86a
@@ -1246,6 +1256,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b2/ccba634ad9ea112210f034d689b56495e21581
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b2/e4112d010d36bf2fc3571eeeff644b2513ce86
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b3/51cf83d53dc0e431ccc00115b2a7ef79830ea6
+/vol1/Docker/fnnas-system-snapshot/.git/objects/b3/b00092b0813c110a50a58914fb1cbbf8639e9b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b3/cf13cacfc25554c5c8cd96033d1b441fb36f96
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b3/f285748c980544be53cca890795a2d69ef433e
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b4/21c75197e78c8454ac2bfef98e511bcc5144bc
@@ -1280,6 +1291,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b8/4f33d49ce34f11f6f08ca973b94e496bde0b3a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b8/8561cd2380e4175d053aa3e79bdb62d4e5a350
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b8/8833bd6eab4dcc2bd4e5155f18b59d877958c7
+/vol1/Docker/fnnas-system-snapshot/.git/objects/b8/dad243f12aef2616f11b839733194516abcb59
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b8/dcc47083fb1a6c6f7f0d98576f74c4d317d623
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b9/26cc8aba3a7db63889de73842d148e17124a4c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/b9/38bb4f808e84419b7694eb336d4f9ecf4b36bd
@@ -1485,6 +1497,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/da/7714b5c8c0d357ceac56a20f76ceac5bb6d61b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/da/a55034663b8af4b9ebeb17fb8159fcd6c81c3a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/db/055879d5bf7b7fd607663d66e6f5c4ce218edb
+/vol1/Docker/fnnas-system-snapshot/.git/objects/db/0f2b4155bf64612732350e59d1265a2faa472c
 /vol1/Docker/fnnas-system-snapshot/.git/objects/db/273d8c5b378fd794f613fc3e835085722e9ce7
 /vol1/Docker/fnnas-system-snapshot/.git/objects/db/485103aa5be8bf47e3155be6ca381849af37e3
 /vol1/Docker/fnnas-system-snapshot/.git/objects/db/6d0a871ba90a426dd7be6c5cff56534e00e650
@@ -1494,6 +1507,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/db/ff8001d59140ea1a0f69973794a0e64f73f97e
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/0865f3535ce6a5f0ab57cc8d2777b2d3c436df
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/169a60b9eeb841845138af1625b64cbb43cfbc
+/vol1/Docker/fnnas-system-snapshot/.git/objects/dc/21e878985ffc93462872b9f263828dbb3fc832
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/6be1e0b30f1c395fcd5cd7a1936441c972b255
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/920850cfa79eb0ada479e1ffa1c2aeca37f64a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/dc/920b81ff3f05b252aa1eadd6a7f7126c42b33c
@@ -1578,6 +1592,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e8/1306131f9421d05a38a0654d391afe4880c08b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e8/390d504698a671106c3008b522aa694820cd0a
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e8/780fad238b51c39d537129d31a0bab140d8f4d
+/vol1/Docker/fnnas-system-snapshot/.git/objects/e8/85991bd178405470e371d1911815c7bc44acc0
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e8/85cf5cb89e264f6c6a7647efa5b70800fa92a7
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e8/fb036b8f112ef73cfe41e14274116bcc56a86b
 /vol1/Docker/fnnas-system-snapshot/.git/objects/e9/0317c91a0e56eda4399f6676f6809964a7d935
@@ -1810,6 +1825,8 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-01T17-18-aabe9434.jsonl
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-01T17-21-7b39b8a4.jsonl
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-02T01-33-485954f0.jsonl
+/vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-02T01-33-8c9f7c81.jsonl
+/vol1/Docker/gemini/home/.gemini/tmp/workspace/chats/session-2026-09-02T01-35-144c6331.jsonl
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/logs.json
 /vol1/Docker/gemini/home/.gemini/tmp/workspace/.project_root
 /vol1/Docker/gemini/home/.gemini/trustedFolders.json
@@ -1883,6 +1900,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/12/4e/105614f6c38cf68cfa65066e4809f239bb04f0384fee0e60710e50d3827636340d19724f796037ba650379d47412fe2debf2fdcbefcc4c992b982295adcb
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/12/8b/a591d285ff5c5af76ab6e4f6e3b8372027d4431d853646cdd2088becdbf7524370699b19de347980fccedf7bad0cdcfad5ee73464d335b90aeb697abd789
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/12/b7/078c6654992a348805da293e1ea4b51e2821cdc1eec0a2ae5455602a908454d97e7398ce7dcccac2b5a06573be1be91ecd98fc52be01bec222408ded94df
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/13/9a/8aa1c2af7a24bfd95d4404cbc42577062ade607fac88a5dbce512b518df201294f1b7e1556b3cd2c295d5019bebd1cadad76acd5abd0c8c14cafb628e638
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/13/ad/1f555e77d7306eefff5aaeccae0bf768971b6a3e461e3f5c773193b2719d838fdcf5038f44b1c53d26925727b304f808ed8127296880c3d566a86e203b7b
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/14/4b/97bd9981a88ac2e3bf481747a37821d253e5c2b40277f184a145cd75304ee087a964668e08442db9239e02fa6f0f46bad61883138bbf66dea95b15d5d939
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/15/0c/7c3dc25eb1d4576baa32692c4da6d62582ac60c2a2c5fd68d312623c249f8c4bdce815a824804d991e930b5fbaac09455f140f96c2df3b28557008bf5e90
@@ -1904,6 +1922,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1c/1c/49921ddc8ba06b7e97ab3588d45a09667f507d07d0043475fdf088b283c111684bc07b0dc272dcdeba4b2a43c4f8438ccdd746a92ef33d291f6c9ce523f9
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1c/53/e00226d94a6fcd662f886da9936e102d83942395d842c778a0bbec2c450bb20f3ca4f41d1cab23db0ec78ee88fa721a3616463f3c5962ad45df46fde8f24
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1c/54/e851cdacd78f873abe9034f1449851ff6d1f522a1e6bfdfabe0289920104e34580ce792ab1dcb08d5652f121788b64357c068a32ab563b493241e971842c
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1c/e9/baa054e849a8cc089b0a6d57a1c42536e6666c5e2bbf3fa919aa550273863faa3748646b78f9800a4c5a468092efa05c0d81b70cf460f700b04b8b82b8da
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1d/48/07eb92b27a3ad414fbc714f6ea398d2bb058a9dc1a39c1be2782f762d44a426165100c2e55f98ee6670b3e0cb92be0cfffcd02686a7bb548ffbcec3bf5a1
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1d/65/4d2d3c8440ed3358ba99e5bba1e65c1c1214ceecb478dba8b2c5386e3b2f031e9543025078c309b72e84e70a6143bf3c5df68a1e6842c36c4a977354f89a
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/1e/c6/f15816f9589dc325d91090cac7316f909403c23a0be2bffcc6e6852b81b5d85c8904136e6356990360123303aa4028c712c9030bac14414f18b3f9f622cf
@@ -1947,7 +1966,9 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2c/86/3dd7483d4c8d77612f7996b305aecf119bfbbf8ab8077935a8282a2d79e274e02509f767847e3d2b567fbb54a30f06950f894a0129f84dc8b236dc413f28
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2c/d6/5ad11f5b4002f53436690663d591e8cbcefa4db072c28109592094edc32a6fcd8f4b254e2f5fbdb38ef8b1482f45040df942182e8608997635730e28e79b
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2c/f8/ca497f6e473a2f8b0db82006e22e374b88e2873b4d766a288a0921f3ef9a9c98ff98ec744b7a5191b4f622beed6a679e457b29bd662ac87b75400b3cf42d
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2d/1b/0cbda61d8a18e1f79de5d6b963469b92f2dbc8a433bdd07ab36bc0b21995405655c99c70ce95977b8e3eed82412252b245cc44c1ce114ac5bd3a049d5a72
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2d/47/797aebdb30ba70385f26ea2bcf09b85079289854d6fc56cd1f43c4235e8d094e4107a73f29c5d41fd204ad96d68fa70d0271af1bdfd2b1bcaf5c7ca46203
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2d/50/57acca006e1bdcc0f2c0a21c28b8d40c6f22427e631f4b6e2db103a45a64df358f1fcbe7cd8390d8c351d6f476d46f0367296cd331dcb4a59afd63e2a98c
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2e/07/8b1520b79d2c3ddfdd8900faba2687076a42f6ed16320bc2bbc0c8ff18ee5fac49a181ac08c14fef661356bcca67f7d2a3ab8d5a66f51d28eab74727f5fb
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2e/c0/c33e64731d2900f75e37dccf47936eb68ba3642dadd22d2c155a14e4ae7e59580eaaf8ac5b9420cd5594272ee3db3df9848a25106c1bc48a6bcca66c6ae2
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/2e/d3/4059b3ecf127ca5014c8f207549a2be34660c353eaaff33558e7b99e40960427c591fe99a40468dd42c1a1b442762c3807ae3657cb7ed7755ebf750f9428
@@ -2003,6 +2024,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3d/eb/60d93e8561634154ab3c56d4c6b443fe38d0fc364399c904d105d116502916794afa6a84e74a00f4012918376283c73d89bcda5a9f9050e8cf8d061d1deb
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3e/55/87448538aff956c347987fa48491dd82ace6442bc2d768b336aa1d1feb7caeaf219f8c7adcbd3e1a492211e5d8319bddf41273bf08e70f0d2f98b94679f7
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3e/d3/84ecd6fdae9a1333494ba31a33797ad4f9eb5e6e44884ce4a38a2cb5a06fddc68e151284faa308048e2bafd2445d20ea1f8ccb77b237714ba656ea0d05ec
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3e/e7/4b4fc66103afeb65f1bab9340b72f0958d97f7754674182373c36d240e4dd9796ed0957099b38ef8b214ec66a8c62f8a3cdd9c6ab3c014e1933a9014a80e
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3e/ed/95e8fcbe3c1b7b8a7af211e722ae5fadfad8bc6e16698633fe5baf2255a5c75312dd5a69202fd288d5591b4476f1e64f0ae537b0f4e3f6d7c61f99582e20
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3f/55/bfdb8c181c10f594aeef3937dbf98ef33ac1282cada8b8324d7efbf20e56181b8282e662c3baf7031c0ac15418fbc3d3d99d9b0b04484f7f904c4a599257
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/3f/a2/0c4108cadd3b61646bacd217e41ff4f0731b4061fcfb8f9d8709563d2f97813724099870d918acae14cd1afdc7d265c4e12320e0f49bdbcadef14c92b821
@@ -2141,7 +2163,9 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/71/0e/07459f7c52cc298053a965275951320dbc450a0bcff033718a77a5ce357152693160d1004aee985411ff61aaba1ab5cdaf73e1f8fc43108f1ece42bacc0a
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/71/63/1a3705099dfdfb0bf4b94df0a493fd793306cf47055800b0368ed8e46c78c29803e20d7c8d272daade9d4a019cc32c7016c9aad4592ba35281d1e29120ac
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/71/72/c68cfd1ce13ddf95924a412bb3898a2aecc953fab9ef7d98dfa7b87e23b2bd04d5f9e243fd9f25af75bc23438bb58966ce2f8bbde9f81e64b4e8425642ef
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/71/c0/b4f3f84e35bc68cff1c4958dbfbac407ec8e891ef9b00e3a03c912013a1b868dcff7a0c60e2d3727e09e84ac17826032547bea6e3b50df65e4e74b4eea84
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/72/0e/3d19fa4e8227be25b3e769d6914bb23391b83e35ab80e392bbc0aecc9a18874d40960a44491c6c35753b098dcacea462ee6977e6c9a83d045f5f519bb578
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/72/2d/05a8a9e5e47c01071fb5460e6d8b6b99b0da17128b4c0dc3276db482f380ef7bb53d67cb2cc726e305279c2a2ad18fa0e0fcc55cb33e8e1d957e06f6d18b
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/72/6a/6dd62cbea76730c2023e530111036ee983872e808cf82a5acaa54161529859ae60d096201c8a6574fdf08b489c36db95dd787476f39da5f36b8595527083
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/72/da/9827ffc8adb13aaa70869f3aab56bd29a71d3859ceaa279f25522be7d50790f8cf70b1b4fb8219eca71fb22e489c8247d97ca9ec9e6ff2f871f7445e61e8
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/73/2b/ed8991c252aa88a2d4c7465edba445c5b62d5e844a6de9d210820fef11e6f4359275a7cc778d5ee7cb8fd860e56ba439e424ea8cc7502cf642286c8c3e2f
@@ -2157,6 +2181,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/78/39/2d32af0a2758cce0879143dbf8f19da65f8ab00bd5c6a40235031c7048d8453a39a07b45ad4698d7f4a05103c3e7ff9fce9c889a13a28edf1f6bb0b4bbd9
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/79/0f/dfbf4fd2ee6e00828a81a615aa5d96e04cd019478fb25eca4cb9a82bc868c09afbde8bc2e7fc41e3ec65d7a9be4578abb18d7f2fd28267289f1bb374647b
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/79/12/7145e7d216d63862f37b5aa0d7459cbf2d52356deb7c62dd755c0780cb6742bd990f89d9624f4eddaa6de5b646898171a80022a4b5e326d8ca9ee6e222d2
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/79/4b/9f6bb33e2ab6643e98c930373ec69dabf4df1b33a9d37023238236612f451bbdeaf423ae0d6f66fc9cb833c8484d285732ed07c4f9d8bc2e58029efa96cc
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/7a/40/eb006b28efd0af7fe76d9be98bf0e048d9b9803adde0b2c62cf37dc37bf0bd3662295835b250ee333e0079c76fce858dfae9d92181f3cc61fc1917bc8e64
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/7a/4f/68e7cf920afe8057b9dc86201c509cb50cd136082e5645d05c3b4985f96e284633507cf3bb6f7a4b8d31d21440a91e4286399490c71de193cbe220be580a
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/7a/72/2f2ef440159617273902606e512a63dfac502b74bbfe47e95b439dc198830b22bcbbe1b8cacd7ea21c09bc5986a626485248469bad63790fded79ca39b8d
@@ -2199,6 +2224,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/86/47/894e330ef9f8eb5ff3045eb88af4dfe68b44a6ddec2e683d977fbc0f78fe59f3441a9505b23e25237e45234c3739de3e498ae26bdf57063dbd80d29f24c3
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/86/83/b90b92a9b21e00ba86554d3f29192a7e3094fde9af64fda2899ffdc9a26476ca0d0abe9851cea071baed4ba716138eafbaa24ca2c56966426ce0c10ffa31
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/86/98/f4324e7a0415dd64ab3cf167ccba5cd7200c4964af2ccc251e0eea9e918efb35123876c5e1467d0daba572dc8738f0daef328406c19f2ce88d5ed83eea64
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/86/f5/3e015743071d9a9315300fcf223484c026198c160cd9d64e18c217ed03714a91a739b355ccf42b38304a74a23f7027c68f65659399a410f42ae4e27d15e3
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/87/1b/f38f45d023fc4bdafdca8bb197f15fffc510fae2fa1dea7c8539b439c4d9a49091733c3a8a7bfc1a4e48f2859a3df71e6bcab74dbd4d7a25ce327b558d63
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/87/36/b4b06aec1c95c8a7e39a138f191429269b5598073b822f6b91ead7fecc522e2df351474b4716a2b594792f9ba1e75eada1fec0d035707442f58538fca61d
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/87/3d/b36a7ec58c22eb683700fd5407fad628533094289caacb16aff7970a499bd0106ca6244923f4282b481579b49eee2dde8ec268fd422425f94c60e66ae6f6
@@ -2303,10 +2329,12 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a7/86/bd23a5fa9eee888681a606a01c6c9cb59a50b88f6eef10f657f45e0be3fbd94f72f2ab5564147c3f57f3d4701f41ba8f831b7887913d31dd0c9ae7ccdcde
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a8/98/fad025edec853515fc9cdcd24c8e1e8492e0857a3e3acd4a89e09ee9a9895387277d6ced1705399c388852cd925559fb0b92cd3e9e57bf8f9dfc6005bd45
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a8/b9/0ce0442e9cdcaf8887635fd55b1231fdca9c8724d90d58443d865e11f492c449aea795ecc76f19d542e95c8cb43944760c6665f6402b017bbf1050ce0af3
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a8/c7/ac215ad414c63b9ae6b5a35408b35f0a0abbca0627d5699c9f1e2d11c68568324e9031096dde9d7ed8be49cb456b86c84e32deafb4ecae30bafbb77bbb5e
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a9/02/93e334315e5f252f006d1cc5b06937067c5399be23897addcecbfc661a4da0647ebbec224cf44bed7dd4a48167004d9863ff9e49674ae6cb79b2093e65b0
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a9/88/3d28fdb8743e6a91af49e3b774695932d0df9be1f4d4f3d2cdf620e78c1e706a4b220b8f6bbcc0743eb509406a13987e745cf8aa3af0230df6a28c6c5867
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a9/c2/6ef3c436216a89b030f9dbd24a31dc069bf76f2275b81ef427470887f49b62849bf318eb1c0ed1c4df1d6904a794393cac43c91598b9c9da426eef285c18
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/a9/c5/1c87057c064452d6c907314c932f677aa9eb2f6f489fa1051a7f8c9842fbbd611a1c7d8c552eb6a8b07e459178f43caa8d58c7c5d9089198bd07f050ba3b
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/aa/55/8ba46b0d8b0a31ee63188b3016408bdc8976d936727c82e7c4b76bb5a87df6cb6b104e7de694c30e15ec3860f886758ce999d7ef888791837746011e22d5
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/aa/5b/6f408a911348607d5f265599590d5315564784bc3666a2198b8fcf36b7f5942dddce5a391052c1df92581f233c7c1fec11a3ce481319d54354f0dca7e72f
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/aa/92/575f13aff3da9fbea24acfb4c6594325876370ca425d0c9726e356f6fe7f0f55f0b4b1328b48fe0f544f018cf28ce87e082a4554e4c5d81420707f01a9bc
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/aa/e9/6808875f89ad4c591f3f26890f32d53d46b256fe3dedf936b93426f0788f2522769d10d258488d60d489e3b52f852e8319b41b629eecb2cdf61d6fc274cb
@@ -2420,6 +2448,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cc/ba/52e5ab2311bee5abc8d82eadfb37a5ca684e350c87b1958d6b17fcf8fed225df0a35dd2aa6dbc7d1c9f22c2990fe359f263394682a4a56feb05cba84994a
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cc/ce/cd2bade77c77464285251ee98dd42bf75c084c7642dc8bc377bedc4ebe04a89b28b18e5463a72d80acd17a955c76f6b77095d7a90d0a94335df9dc356197
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cc/e3/9036d0b5c5f6ce21d267e4e6031be19088ef053dfc9d22c9f37d570fc08c7acace906cb43a274699ad067d992bff76a74add0eb28011d7cd0d7611cf0f94
+/vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cd/1a/4b40f3bc8f75ea6482dee9d853dccf1bc60ee450538b71808a2abb405cef8031385c8ab22e94e0375a3566466e037651a5caf5b8cf0e043b7efe2c9ff3c3
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cd/90/68a24f85a6eac3c83c9a52aec5395cb2790d23524865bab952b9cf3898c2c3b71dc54f199cf867b99405d21b77a36b6ef2601490be60ca4e18dcb4e8649c
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cd/ab/8b8eb7c21bec6fa326aa2e857c6cb5575cd182e09aa5c450aeb520d603a7c9ad3a3666ebcb613a99eda1c12d948c3a8a5bcf0bfc7fec19715cdf5532360e
 /vol1/Docker/gemini/home/.npm/_cacache/content-v2/sha512/cd/d5/d5f5899569768ed637999b2570191db85252cf22bc38f1e8d96fa15b529d5f9b2f0a10100babe6205d2d066670884c22698536c9fe6da205fe63891d4e42
@@ -2618,6 +2647,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/12/08/2e4dbe00e4bfdb8617f22c4043a906d484b73d2630a49a342dee86eb631d
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/12/57/ab17564521d55e009531519aea1239fd51aca03f7f8a27400cbb5aea42e1
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/12/80/71b2d1452a6c218b9b534041f2e2b4b9ce6235c552e2515e16f03820d00e
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/12/89/6459a1b039fad920507f09258833ee4c9b93bf1c434242621c5675b06217
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/12/af/9c4609e3ba4c654f637ee6191d2311ae79c65d348ca5b65c7d1bf529a00f
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/13/29/572bf43d686299dd8263b106410c0cdb26df1485ef40041d2172cc942990
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/13/74/3ecb6d615e54e59412486ba3715c5b19f136c7ce51502168ab7ccb21bb3b
@@ -2629,6 +2659,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/14/f7/87042931e5944467d47331c350feb4384bf9143ab6ceebf7108a55905843
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/14/fc/81c4a12101334ca2546da524ad48652737ee94b6100bd189fe9c38596ecd
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/15/1f/54feb1d9b270a72d52e31d91b0da080d45950e7494344c44ab1385ac6fc9
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/15/42/5e62ad88a12938b1508dbd20c059a79683c8d97541eb2364657860400d4f
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/16/5f/3049e1aabc88e53218406fb3954480367d062c1338352ff0f3c0066e3ce3
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/16/bb/1e741591919cfefc7e2a857d2cb5965e93e89d3e428b94841c6c28cb7efe
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/16/f8/afc88d2ed6b122863f94ceee7dcf2c558d4c7ae8f63cee2c33d3dd30b1ed
@@ -2717,6 +2748,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/35/7f/e41f2c2713684e6e809753f5b2a642d98d5d19a1c17c03d0788531cebf88
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/36/0c/a7bee0168c34dc0f960145e7dc99dc5ff82d9d3a7b3f5120816f411c0859
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/36/56/1c296330da712f76ebc7bf6030b9cdf243fc2844df40f4631c3c75ca4f6c
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/36/6a/a92a5d4f759cb85b71d71fa2dcde461c9128b8392b2069177f21d4cec305
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/36/7d/5f44a46d193122ef9f66b862cf682174de0ea85c05926189702c27bcc21e
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/36/85/8ac5cedcf9baf9a8f77dcd6287586eabb73789950173662585fed0ec23ce
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/36/b4/583288c937bdd6b204ddb641760da89dffb572dbacb12a74617e8a6e9afa
@@ -2765,6 +2797,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/43/33/305bf56940320eec7a16492a3715b6c80ecbe759a62ac61339da69e9490d
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/44/fb/64b8c30d161d7bda2f275c8561caf30714eea9fc70d9d799992f0abe4ffa
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/45/e7/2edd68c46065737edb634fbd0a1bc6380f78a83c5190d8e835ad8f90da02
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/46/29/452c2c6091e1046364b35c9332fc2ff95934a2d692498fbc420cc045b0f8
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/46/74/75e64158f92ce447941c0491cd0c337ccf20e22eec98ff35e5c58278de5c
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/46/d9/5296f26e207d1371c8f95bf082321237691bc5e5db64b66d0ffd6ffa99ab
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/47/09/5493a3f63d08d73ce34a28fe62f40954bb8515c844bddc8d5cd5d91ecf58
@@ -2775,6 +2808,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/49/41/f60b16aa1274582138f17dc10e7a907551180bd3389b6c4e4005c8095c0a
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/49/c2/6b0f3de8953e1f78cb273e90a4a5b266d906c96f3e10dd2e1bc16f9b2e51
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/49/d9/a6d888fa25a6e1a230cddce84b409a451d39c4bf5502ae076a19c9f5cea8
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/4a/11/9a089cdd0b04882d561bd381f54e55eacdfe8e3354f96bad8d6df317ccc0
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/4a/8d/dde9567871b8fb264742468b6def0c3d52aad8936094eb9da27ac5e24645
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/4a/aa/a2116bc6921e01d9afdcb6bee00a8c1f9666bdc15398ad4cf0bb2645241b
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/4b/4d/9e124541d1bd7686c80038ca3b6ed601e64e680a83edccdf47801f6e21e6
@@ -2969,6 +3003,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/8c/a8/72e4066925771005c149cda2faae3c90d10e0c7de2b4b9585f053d8fa4c9
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/8c/db/eb5708c609d9e7bcd8c6e5768aa39da464df2fab59986ec0b7713f2ef3d7
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/8d/05/7f2104b10005b46b63d552aa58cb997009f7e98e757e42d074c9099d4ca6
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/8d/22/2ffb72ff9fc2ee0f4a756aca56985ac38896e6943c803f0e8d949aa96a4c
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/8d/b2/efb98333ec63b6ca87cb7ae75f9390fcea80b2f93321dfa7e712deeea8ef
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/8d/b3/63d81c0dbe3f1f838065e193af4b69922816127f958735517701db92f877
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/8d/f8/aefda99ca03a1004596e312ea5d597c682502fb85fe4283d6c1079cacd8f
@@ -3018,6 +3053,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/9e/87/ce33cead6dd5befbfc73f89eed5e7abbc7d0fccdb8aa26c66dfd521952a7
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/9e/8c/9b9d947f7dfb9bb682cfc77b9cd9a5b224a50a25f1aca80b2e0eb84a5214
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/9e/bf/4ab14bafae3cf935bbe209ee90f7d976feeded8cd2a416e7e99d4a0507a5
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/9e/d1/d02a71de789b685cfd5aba2a8c1970bda787c4497defcdb201c7fc07a917
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/9f/40/e32a296cd131bdf18731e9abc68c23baba1f3dab165d07e71c80aede2d99
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/9f/80/5095f1e4a4f144a1b7c5af323372bb7f512b212ebf4de91c8d3ade240d0e
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/9f/e3/618e8bec8c475d9f7f7995690755d953a3450091886fcdde8ced2f945214
@@ -3029,6 +3065,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/a1/76/fdaa9f1ea0cb00edf93e933d668c0afde60b32c20deea3bc7f3d25cfc9b3
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/a1/ce/fb85c45543d0c40ae550469db41cf657c09df57556e9c1f1c8869e9433b8
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/a2/1d/2e4a2eb654d6ca4bb09170ae04c395c9ca2eaa1ad04a6c7e38574ad744fd
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/a2/e3/de4a2b09ccab3cb9282ecc9509b87db4f83688d793015327d075afc28524
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/a2/f8/c61e11470f05a7de4ec5ee8f0cb5cc1fb6fa26f7b214394bdc7577ee7c60
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/a3/0c/9afbf12fd38c7f192d8473d170c21374e465dee980a2dba40a9a6a3ad828
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/a3/1a/1980e3606fc9c385577e0413b657e6975019731caa4201b43fa91b789e61
@@ -3062,6 +3099,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ab/d1/00f1a2a4d26faac1d908100ff91137acfcb49a3b7e334c9f275201026ee3
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ac/0f/a9b9fa84df0e61b5acdd62987f6f4f2b3a73e7b7ebf12fdf875216ffbb65
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ac/3a/fcbc25579b6781ebe25238d93a42982ebf8f67129682ab28dad089f6f9d7
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/ac/5b/6c13c10c7e073802aeb07775fe3df8fc8c4fff33f71f5894afd60a25c003
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ac/74/9f53cb22214f8c9eb8a78e4d9bc4c481818b1a396ebe93aaf0dc4842c200
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ad/29/173b4c0c1d1d981b647369dad37ba418f1d0e61ed22f168e252803bda2f3
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ad/57/7b36ee16b5249744ebe1995aa461db9a8c52c5af304dfce9ec3ef52a0298
@@ -3183,6 +3221,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/d0/39/f3ea46b7a48d1b108681523c9e802f48f2779894068bc9b984863ca18939
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/d0/a2/9b5933a9df317b031c4407f0d9cae19a4d56f253f7746786597a52daa76d
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/d1/4d/e2e96fb6121312608030eb5cfe5054dc1d71a81a7cec48e7e7a00f2766ad
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/d1/ef/f54103fa39c1c45b3e95f1a0c7eb7d711b6cd3f46a731ad171dc0c41a80c
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/d3/01/df02f15d3f712e8703cdb859ebbaae96325f2b15bb9958158ea19152c11c
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/d3/03/28a93fdd3be53f5b1271977affc5df3e356bbbfc6b064ac43aeffdd8fcbe
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/d3/53/71a9abaad2e6db9a7a25ae3232d6b30d5b592bb3235d7a776e1d420e3fd2
@@ -3201,6 +3240,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/da/fd/a7430df0318b0d8dc51117e06e01fe128628d081f3fe4debc55502d5fd5d
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/db/76/09ae97c9c9ddee96bbd394d31426b17616dbe8c62544a7b039f35a26c43f
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/db/80/d58afa160b91ba35e47ae007cfa626723afc5eb45415fb0dcf594d7ff093
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/db/e8/2741c60fc481ae4f934cfd20ec6bd7a3b5b9489c3b778d76ec4c98e8c204
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/db/f7/af886ff473d2a999e30c0e3a4f34462dd9d1be72c19bb967771d4b86adc5
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/dc/23/1cc297c447d6ae8f408818f11d3272db3eff429b9b44a6046d11863d1481
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/dc/3b/b7c23a9dfea90d542200233eeba53d45aeae93b787f4469807126a39a739
@@ -3235,6 +3275,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/e7/e0/d05059e3d4029513bde6438b77436882bfb7a595d53e55d662103a68db3b
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/e8/3d/43205782f4dc0b4f49e61be536deb9a77921a8ace4543f612349df285946
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/e9/22/0cdacf235792ec5c3dedf9182b3124ea1d04ae21e5bcd4b2db42b3462d80
+/vol1/Docker/gemini/home/.npm/_cacache/index-v5/e9/30/8dea83491e84ab8ce8d8a792ae80ee8a6f126ad3b535415dfb7536eaea60
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/e9/b5/5daf104fd709ccf6c439702c8def086f055502298fc7413d174d4a43e241
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/e9/c3/d532d21f998f19872709eb20e7f86d2944d247a0db1c713134a8bb306305
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/eb/62/5bb984a27c31f9c00526a5db5385fb7db99cbef9540b51f92ae6a200bb63
@@ -3299,6 +3340,7 @@ Script contents are intentionally excluded.
 /vol1/Docker/gemini/home/.npm/_cacache/index-v5/ff/d3/eca629ba696cac5a91e13f61bb768d7cbf82072f798d17071572ab3943f2
 /vol1/Docker/gemini/home/.npm/_cacache/tmp/b9299c41
 /vol1/Docker/gemini/home/.npm/_logs/2026-09-01T04_03_21_662Z-debug-0.log
+/vol1/Docker/gemini/home/.npm/_logs/2026-09-02T01_35_41_269Z-debug-0.log
 /vol1/Docker/gemini/home/.npm/_npx/67eb4586ca667318/node_modules/abbrev/lib/index.js
 /vol1/Docker/gemini/home/.npm/_npx/67eb4586ca667318/node_modules/abbrev/LICENSE
 /vol1/Docker/gemini/home/.npm/_npx/67eb4586ca667318/node_modules/abbrev/package.json
